@@ -6,3 +6,4 @@ A payroll processing single page web app written in Angular js  & Asp.Net Web Ap
 * The release branch is the current production branch of the site.
 * The develop branch is used for creating new features.
 * For bug fixing use release branch.
+  
